@@ -27,6 +27,3 @@ You won’t need to install CocoaPods every time.
 6. The CocoaPods team recommends that you commit your Pods/
 7. You should never directly edit anything in the Pods/ directory. If you were to install a new pod then your changes would be reverted.
 8. Alternatively you could use Carthage, but it seems that CocoaPods have become the more popular choice: https://github.com/Carthage/Carthage
-
-## References Used:
-https://medium.com/@Baconbrix/using-cocoapods-in-ios-12-e4dc95a11b15
